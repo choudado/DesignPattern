@@ -39,7 +39,7 @@ public class ChocolateBoiler {
 	}
 	
 	private boolean isboilded() {
-		return boilded;							//123test
-	}
+		return boilded;							
+		}
 		
 }
